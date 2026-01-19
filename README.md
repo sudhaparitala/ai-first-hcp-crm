@@ -80,5 +80,3 @@ The LangGraph agent acts as an orchestration layer that:
 
 Through this assignment, I learned how AI agents using LangGraph can support CRM workflows in life sciences by integrating LLM-driven intelligence with backend APIs.
 
-
-
